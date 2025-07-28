@@ -1,6 +1,6 @@
 # AVLTree
 
-A fully templated generic C++ implementation of an AVL (Adelson-Velsky and Landis) self-balancing binary search tree.
+A fully templated generic C++ implementation of an AVL self-balancing binary search tree.
 
 ## Features
 
